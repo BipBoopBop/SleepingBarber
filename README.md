@@ -8,8 +8,8 @@ Imagine a hypothetical barbershop with one barber, one barber chair, and a waiti
     - If a customer arrives while the barber is working, the customer leaves if all chairs are occupied and sits in an empty chair if it's available
     - When the barber finishes a haircut, he inspects the waiting room to see if there are any waiting customers and falls asleep if there are none
 
-##Compilation
+## Compilation
 
-'''
+```
 g++ .\sleepingBarber.cpp -std=c++23 -o .\sleepingBarber.exe
-'''
+```
